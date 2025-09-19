@@ -11,7 +11,7 @@ Import to Database: First open the phpMyAdmin.
 Config PHP : 1. Make sure you have Laragon installed.
              2. Copy the project folder into the  `www` (Laragon) directory.
              3. Update the `db.php` file with your database credentials:
-   <?php
+   
    $host = 'localhost';
    $dbname = 'enrollment';
    $username = 'root';      
